@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetoFucapi</string>
+    <string name="frase">SEJA DIFERENTE SEJA FUCAPI !</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="credenciais">Digite suas credenciais para continuar</string>
+    <string name="salvar">Salvar informações do login</string>
+    <string name="entrar">Entrar</string>
+    <string name="LG">FUCAPI</string>
+    <string name="SE">FUCAPI</string>
+</resources>
