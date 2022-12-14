@@ -23,7 +23,7 @@ public class FuncionariosViewHolder extends RecyclerView.ViewHolder implements V
     }
 
     public void onClick(View v) {
-        Toast.makeText(context, "Olá " + this.cargo.getText().toString(), Toast.LENGTH_LONG)
+        Toast.makeText(context, "Olá " + this.nome.getText().toString(), Toast.LENGTH_LONG)
                 .show();
     }
 }
